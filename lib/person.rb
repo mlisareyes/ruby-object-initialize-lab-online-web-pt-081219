@@ -8,5 +8,6 @@ class Person
   end
   
   def name
-    n
+    @breed
+  end
 end
